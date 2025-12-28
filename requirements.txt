@@ -6,4 +6,3 @@ pandas
 numpy
 PyPDF2
 Dashscope
-http
