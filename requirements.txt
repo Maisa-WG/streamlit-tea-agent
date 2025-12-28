@@ -6,3 +6,4 @@ pandas
 numpy
 PyPDF2
 Dashscope
+python-docx
